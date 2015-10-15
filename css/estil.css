@@ -1,0 +1,61 @@
+div#contenidor_marro{
+    width: 500px;
+    height: 100px;
+    margin: auto;
+    background-color: saddlebrown;
+}
+div#contenidor_groc{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    background-color: yellow;
+}
+div#contenidor_verd{
+    width: 400px;
+    height: 500px;
+    background-color: darkseagreen;
+    float: right;
+}
+div#clar1{
+    width: 125px;
+    height: 320px;
+    background-color: rosybrown;
+    float: left;
+    margin: 10px 10px 10px 10px;
+}
+div#clar2{
+    width: 125px;
+    height: 320px;
+    background-color: rosybrown; 
+    float: right;
+    margin: 10px 10px 10px 10px;
+}
+div#clar3{
+    width: 380px;
+    height: 150px;
+    background-color: rosybrown; 
+    float: right;
+    margin: 0px 10px 10px 10px;
+    
+}
+div#contenidor_blau{
+    width: 500px;
+    height: 150px;
+    margin: auto;
+    background-color: skyblue;    
+}
+div#blau_esquerra{
+    width: 200px;
+    height: 130px;
+    margin: 10px 10px 10px 10px;
+    background-color: blue;
+    position: absolute;
+}
+div#blau_dreta{
+    width: 130px;
+    height: 130px;
+    margin: 10px 10px 10px 10px;
+    background-color: deepskyblue;    
+    float: right;
+    border: 2px solid blue;
+}

@@ -1,0 +1,172 @@
+div#contenidor_vermell{
+    width: 100%;
+    height: 42px;
+    background-color: #7a0000;
+    
+}
+div#contenidor_logo_menu{
+    width: 100%;
+    height: 103px;
+    background-color: darkgrey;       
+}
+div#contenidor_logo{
+    width: 80%;
+    height: 61px;
+    margin: auto;
+    background-color: aquamarine;
+    padding: 5px;
+}
+div#logo{
+    width: 20%;
+    height: 80%;
+    margin: 5px 5px 5px 5px;
+    background-color: skyblue;
+    display: inline-block;
+    float: left;
+}
+div#buscador{
+    width: 30%;
+    height: 60%;
+    margin: 12px 5px 5px 5px;
+    background-color: skyblue;
+    float: right;
+    display: inline-block;
+}
+div#contenidor_menu{
+    width: 80%;
+    height: 22px;
+    margin: auto;
+    background-color: aquamarine;
+    padding: 5px;    
+}
+div#qui{
+    width: 14.285714286%;
+    height: 22px;
+    background-color: bisque;
+    display: inline-block;
+    float: left;
+}
+div#solucions{
+    width: 14.285714286%;
+    height: 22px;
+    background-color: grey;
+    display: inline-block;
+    float: left;
+}
+div#experiencia{
+    width: 14.285714286%;
+    height: 22px;
+    background-color: bisque;
+    display: inline-block;
+    float: left;
+}
+div#aliança{
+    width: 14.285714286%;
+    height: 22px;
+    background-color: grey;
+    display: inline-block;
+    float: left;
+}
+div#events{
+    width: 14.285714286%;
+    height: 22px;
+    background-color: bisque;
+    display: inline-block;
+    float: left;
+}
+div#noticies{
+    width: 14.285714286%;
+    height: 22px;
+    background-color: grey;
+    display: inline-block;
+    float: left;
+}
+div#contactar{
+    width: 14.285714286%;
+    height: 22px;
+    background-color: bisque;
+    display: inline-block;
+    float: left;
+}
+div#solucions_serveis{
+    width: 30%;
+    height: 50px;
+    margin: auto;
+    background-color: aqua;
+}
+div#contenidor_menu_solucions{
+    width: 80%;
+    height: 335px;
+    margin: auto;
+
+}
+.menu_solucions_serveis{
+    width: 33.333333%;
+    height: 167.5px;
+    display: inline-block;
+    float: left;
+}
+.cloud_computing{    
+    background-color: skyblue;    
+}
+.servicios_gestionados{    
+    background-color: darkseagreen;
+}
+.gestio_seguridad{    
+    background-color: skyblue;  
+}
+.business{    
+    background-color: darkseagreen;
+}
+.aplicacio_negocio{    
+    background-color: skyblue;  
+}
+.data_center{    
+    background-color: darkseagreen;
+}
+.titol_tots{
+    width: 95%;
+    height: 35%;
+    margin: 6px 6px 6px 6px;
+}
+.titol_cloud{
+    background-color: black;   
+}
+.titol_servicios{
+    background-color: darkslategray
+}
+.titol_gestio{
+    background-color: black;   
+}
+.titol_business{
+    background-color: darkslategray
+}
+.titol_aplicacio{
+    background-color: black;   
+}
+.titol_data{
+    background-color: darkslategray
+}
+.text_tots{
+    width: 95%;
+    height: 55%;
+    margin: 6px 6px 6px 6px;
+}
+.text_cloud{
+    background-color: lightgoldenrodyellow;
+}
+.text_servicios{
+    background-color: aquamarine;   
+}
+.text_gestio{
+    background-color: lightgoldenrodyellow;
+}
+.text_business{
+    background-color: aquamarine;   
+}
+.text_aplicacio{
+    background-color: lightgoldenrodyellow;
+}
+.text_data{
+    background-color: aquamarine;   
+}
